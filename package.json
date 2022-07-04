@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "next": "^12.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
